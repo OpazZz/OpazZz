@@ -3,7 +3,7 @@
 
 - 🌱 Je travaille actuellement sur **Java, avec Spring et Thymleaf.**
 
-<h3 align="left">Actuellement en formation ENI </h3>
+<h3 align="left">Actuellement en formation ENI : D2WM</h3>
 <p align="left">
 </p>
 
