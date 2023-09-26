@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, je m'appelle Samuel</h1>
 <h3 align="center">Développeur Web et Web Mobile.</h3>
 
-- 🌱 Je travaille actuellement sur **Java, avec Spring et Thymleaf.**
+- 🌱 Je travaille actuellement sur **PHP et Symfony.**
 
 <h3 align="left">Actuellement en formation ENI : D2WM</h3>
 <p align="left">
